@@ -1,7 +1,10 @@
-````md
+
 # Chat UI with Gemeina AI
 
 This is a React-based chat UI application for interacting with **Gemeina AI**. Built with TypeScript and modern frontend tooling, it provides a responsive interface, real-time updates via WebSockets, client-side routing, and HTTP integration for fallback or auxiliary requests.
+
+## Deployment Link
+Link here (https://effortless-stardust-171e1c.netlify.app/)
 
 ## Overview
 
